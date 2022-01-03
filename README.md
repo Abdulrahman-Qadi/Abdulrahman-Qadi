@@ -4,11 +4,11 @@
 - 👨🏻‍💻 I’m looking to apply for jobs in software engineering and development💎
 - 📫 How to reach me ...
 
-Instagram📷: @3bdulra7man_alqadi
+Instagram 📷: @3bdulra7man_alqadi
 
-LinkedIn🔗: http://linkedin.com/in/abdulrahmanqadi
+LinkedIn 🔗: http://linkedin.com/in/abdulrahmanqadi
 
-Gmail✉️: qadi.abdulrahman02@gmail.com
+Gmail ✉️: qadi.abdulrahman02@gmail.com
 
 <!---
 Abdulrahman-Qadi/Abdulrahman-Qadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
