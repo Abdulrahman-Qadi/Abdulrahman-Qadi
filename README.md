@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abdulrahman-Qadi
-- 🎓 I’m currently persuing an undergraduate degree in computer science at London, UK
-- 🌱 Asipiring to become a succeasful ML / Robotics engineer 🦾
-- 👨🏻‍💻 I’m looking to apply for jobs in software engineering and development💎
+- 🎓 I am a final year undergraduate student in Computer Science at London, UK
+- 🌱 Asipiring to become a Machine Learning / Data Science Expert 🦾
+- 👨🏻‍💻 I’m looking to apply for jobs in Software Development & Data Engineering 💎
 - 📫 How to reach me ...
 
 Instagram 📷: @3bdulra7man_alqadi
