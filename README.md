@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Abdulrahman-Qadi
 - 🎓 I am an MSC Graduate in Artificial Intelligence at London, UK
-- 🌱 Asipiring to become a Machine Learning / Data Science Expert 🦾
-- 👨🏻‍💻 I’m looking to apply for jobs in AI & ML Engineering 💎
+- Currently pursuing a PhD in ML for Quantitative Finance
+- 🌱 Asipiring to become a Machine Learning Quant Expert 🦾
+- 👨🏻‍💻 I’m looking to apply for jobs in Generative AI & ML Engineering 💎
 - 📫 How to reach me ...
 
 Instagram 📷: @3bdulra7man_alqadi
